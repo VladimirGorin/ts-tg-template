@@ -9,7 +9,10 @@
     "dotenv": "^16.4.7",
     "node-telegram-bot-api": "^0.66.0",
     "nodemon": "^3.1.7",
-    "pm2": "^5.4.3"
+    "pg": "^8.13.1",
+    "pm2": "^5.4.3",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.20"
   },
   "devDependencies": {
     "@types/dotenv": "^8.2.3",

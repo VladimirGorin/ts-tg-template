@@ -5,7 +5,10 @@
     "outDir": "dist",
     "rootDir": "src",
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "node"
   },
   "include": ["src/**/*", "src/main.ts", "src/config"],
   "exclude": ["node_modules"]
