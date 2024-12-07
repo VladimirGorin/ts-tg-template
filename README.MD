@@ -6,6 +6,7 @@ Ensure that you have the following tools installed:
     Node.js
     npm
     TypeScript
+    Docker
 
 If you haven't installed the project dependencies yet, run:
 
